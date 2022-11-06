@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Zakaria Haddoumi</h1>
+<p align="center">
+  <img width="1000" height="400" src="https://github.com/Zu-23/Zu-23/blob/main/git%20bg.png">
+</p><h1 align="center">Hi 👋, I'm Zakaria Haddoumi</h1>
+
 <h3 align="center">A network technician and software engineering student at 1337</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zu-23&label=Profile%20views&color=0e75b6&style=flat" alt="zu-23" /> </p>
