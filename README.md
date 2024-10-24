@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="1000" height="400" src="https://github.com/Zu-23/Zu-23/blob/main/git%20bg.png">
+  <img align="right" alt="RAT" width="360" src="https://i.imgflip.com/6nfmt9.gif">
+<!--   <img width="1000" height="400" src="https://github.com/Zu-23/Zu-23/blob/main/git%20bg.png"> -->
 </p><h1 align="center">Hi 👋, I'm Zakaria Haddoumi</h1>
 
 <h3 align="center">A network technician and software engineering student at 1337 Morocco</h3>
